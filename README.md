@@ -6,5 +6,3 @@ Javascipt
 Js-library (Gsap)
 
 
-To see 
-<a href=" https://ssubrt.github.io/projects/" >Live Demo</a>
